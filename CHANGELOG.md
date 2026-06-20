@@ -1,5 +1,67 @@
 # Changelog
 
+## [1.2.0](https://github.com/r38t/tvvoo/compare/v1.1.11...v1.2.0) (2026-06-20)
+
+
+### Features
+
+* introduce release versions ([126f721](https://github.com/r38t/tvvoo/commit/126f721e420e2753e121ea60f8ee5bb8034d382e))
+* introduce release versions ([a237e9a](https://github.com/r38t/tvvoo/commit/a237e9a4e12cee79188b31a45062bacf72cd45ff))
+
+
+### Bug Fixes
+
+* 3 mode ([e741796](https://github.com/r38t/tvvoo/commit/e7417963f2096d920cd0744fb1e3690e62644777))
+* add logo ([408a6da](https://github.com/r38t/tvvoo/commit/408a6dae2705d6f71ea403f164cb872071d2cd99))
+* add logo ([d36f618](https://github.com/r38t/tvvoo/commit/d36f6186d2961f4db24217693ee121214ac5da4c))
+* addon fallback ([fec3df7](https://github.com/r38t/tvvoo/commit/fec3df742e7a9edbb3074b9761dfcebbabf32b96))
+* addon.ts ([e3350cf](https://github.com/r38t/tvvoo/commit/e3350cf88d02b98971e200b4df765354a7c03e98))
+* addon.ts ([74297f6](https://github.com/r38t/tvvoo/commit/74297f6c5c435e4a14e5eb585a409dc9fe5a7448))
+* addon.ts ([f541138](https://github.com/r38t/tvvoo/commit/f541138f75a85cb2b09a90157b2f044487624d50))
+* addon.ts ([eeff353](https://github.com/r38t/tvvoo/commit/eeff353ce06f8cbe56ac0cdb139716d8f23fcd78))
+* Bump version from 2.0.23 to 3.0.23 ([0d72294](https://github.com/r38t/tvvoo/commit/0d722942f5507c4e673251a76cf463b6031048e0))
+* category ([7cd02d1](https://github.com/r38t/tvvoo/commit/7cd02d117e5810d6345d2dd093bd9472cb3eff72))
+* cors ([b9b29fb](https://github.com/r38t/tvvoo/commit/b9b29fbc98f7a99600f0328f3ec518d94192f5ec))
+* cors e log ([5cb3c1d](https://github.com/r38t/tvvoo/commit/5cb3c1dfdd306255823d2da295f8383893c99020))
+* direct vpn ([8096552](https://github.com/r38t/tvvoo/commit/809655297f15a18c9f33f4b2079a923591e66589))
+* fix ([910979a](https://github.com/r38t/tvvoo/commit/910979ab8b6327120d783e526c85d904259f36f8))
+* fix proxy ([f8f4975](https://github.com/r38t/tvvoo/commit/f8f4975e9312f38c8dab3b5cb0ad92fdf80fec92))
+* force update ([c678286](https://github.com/r38t/tvvoo/commit/c6782867159e0ba06abfb444d2fcbe383f19b2af))
+* fr channler ([da87f34](https://github.com/r38t/tvvoo/commit/da87f34a676c1dad7d5b705e03cc9eb7578d0d64))
+* french cat ([e564a99](https://github.com/r38t/tvvoo/commit/e564a99f6063ed6ce2a9abbf6ba28043a6d63f2c))
+* group channel (1) and (2) and fix none cat ([dd2f711](https://github.com/r38t/tvvoo/commit/dd2f71178b206180a329621f872981108b89d90d))
+* group channel (1) and (2) and fix none cat ([dd2f711](https://github.com/r38t/tvvoo/commit/dd2f71178b206180a329621f872981108b89d90d))
+* home catalog ([b9e9df3](https://github.com/r38t/tvvoo/commit/b9e9df30ac5d9bb5d0c72379c04fe16e29754823))
+* landing ([f07cc06](https://github.com/r38t/tvvoo/commit/f07cc0630b27a566b01fee778803125f190bf02d))
+* lists.json usage ([1a3a5fa](https://github.com/r38t/tvvoo/commit/1a3a5fac2d57c880950b7c22aceb611dac28a0c9))
+* logo ([02c0db6](https://github.com/r38t/tvvoo/commit/02c0db617e557037356a6d5ef89d47b636e36ebe))
+* Logo ([ae698c6](https://github.com/r38t/tvvoo/commit/ae698c69cd4ac4ad23a9e50bf4b33f6d8945f710))
+* mfp ep ([2e85cec](https://github.com/r38t/tvvoo/commit/2e85cec55f7dfd75a8685a1c16a8660eec3fab80))
+* mfp ep ([15c63d4](https://github.com/r38t/tvvoo/commit/15c63d42b072fbd6ccc4644992927ad2edb60f49))
+* mfp ep ([43e0763](https://github.com/r38t/tvvoo/commit/43e07632041bc0425c275dd2b2f634d9a6b06565))
+* mfp ep ([22cb80b](https://github.com/r38t/tvvoo/commit/22cb80b415b32ccbc6af083e23cdb93b38634ebe))
+* mfp-ep ([7132163](https://github.com/r38t/tvvoo/commit/7132163090cc942cbc8ed6fd0f58df55e351a7d5))
+* remove direct ([01a9d55](https://github.com/r38t/tvvoo/commit/01a9d55c055b7356124f501f32ea303389cf092d))
+* remove direct mfp no psw ([f80ee09](https://github.com/r38t/tvvoo/commit/f80ee099dadfcee9944ee506474ddbecdc834f0c))
+* rollback... ([285b558](https://github.com/r38t/tvvoo/commit/285b5588bfe42966aec14b593418377b2b362799))
+* search ([bf7d81e](https://github.com/r38t/tvvoo/commit/bf7d81e70b4d205d4f3d8389c9c29021e8ee63c2))
+* search ([7eca03a](https://github.com/r38t/tvvoo/commit/7eca03a1755bcb411a53f47148b6978f07fd4dfa))
+* search ([1ff97c0](https://github.com/r38t/tvvoo/commit/1ff97c0eb7f2b0346c469d570ae7eba16c7a216b))
+* search ([85c8670](https://github.com/r38t/tvvoo/commit/85c86708ddd71e80203dc0cb44a9738aa886ffae))
+* Search ([85c8670](https://github.com/r38t/tvvoo/commit/85c86708ddd71e80203dc0cb44a9738aa886ffae))
+* spain logo and cat ([65f33ba](https://github.com/r38t/tvvoo/commit/65f33ba20892fe34a0bd766cc9aa98f169bb81ec))
+* updating name ([4e0f42b](https://github.com/r38t/tvvoo/commit/4e0f42bb644a25310bc2336a687ac3010ec2d1f6))
+* version ([723f1d3](https://github.com/r38t/tvvoo/commit/723f1d329f8751a0ec4591b593407d38ee40f023))
+* version ([3779d61](https://github.com/r38t/tvvoo/commit/3779d611c2ca158517e8018e4f32d1f1bbdec4bb))
+* version ([8b6cd7b](https://github.com/r38t/tvvoo/commit/8b6cd7b5104ae95b15483ebb8d0ab61dbb3651d2))
+* version ([30b140f](https://github.com/r38t/tvvoo/commit/30b140f0dd12ed37fe02da3ae264694f1ab887e5))
+* version ([07f3e3c](https://github.com/r38t/tvvoo/commit/07f3e3cb659e8d1687105a3e7ec47ce17a0ca3e6))
+* version and cache ([7fb92db](https://github.com/r38t/tvvoo/commit/7fb92db38fa53e9635981f2ae84f06a46f9a1108))
+* version plg ([502e903](https://github.com/r38t/tvvoo/commit/502e903e2c775b1832715156e87951b225018473))
+* versionpl ([0dc54db](https://github.com/r38t/tvvoo/commit/0dc54db8e1e9e9c986de7558d71e49ce8d03e528))
+* vvvooo ([42e2d9a](https://github.com/r38t/tvvoo/commit/42e2d9a6dd4150fadc831e0b0dfeef10e3a0064f))
+* worker ([01fbefc](https://github.com/r38t/tvvoo/commit/01fbefc4f8fe6b193806bbe053d8c815667796a8))
+
 ## [1.1.11](https://github.com/qwertyuiop8899/tvvoo/compare/v1.1.10...v1.1.11) (2026-06-14)
 
 
